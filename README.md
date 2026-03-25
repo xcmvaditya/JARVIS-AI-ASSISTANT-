@@ -42,3 +42,10 @@ Wikipedia html
 
 
 <img width="720" height="1640" alt="Screenshot_20260325-203810" src="https://github.com/user-attachments/assets/a8f006db-9832-485b-a4a7-796df24c6797" />
+
+
+<img width="720" height="1640" alt="Screenshot_20260325-204022" src="https://github.com/user-attachments/assets/6474b486-5b36-454a-b647-c7b5ac922e72" />
+
+
+
+
